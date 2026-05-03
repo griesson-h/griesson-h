@@ -6,5 +6,5 @@
  - ukrainian, been living in germany for 3 years though
  - i use arch btw (with almost default kde plasma btw)
  - if you wanna contact me, you shouldn't, but my discord is griesson_ (be careful, i'm scawy :ghost:)
- - i can't make a good readme
+ - i struggle to make a good readme
  - ah yeah also i use nvim as an IDE ([the lazy one](https://www.lazyvim.org/) cause i'm lazy)
